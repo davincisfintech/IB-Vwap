@@ -1,0 +1,8 @@
+logs
+trades.sqlite3
+*.xlsx
+.idea
+ibapi
+test.py
+*.log
+*.mp3

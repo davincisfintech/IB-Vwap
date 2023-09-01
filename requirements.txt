@@ -1,0 +1,8 @@
+openpyxl
+numpy
+pandas
+pandas-ta
+python-dateutil
+pytz
+six
+SQLAlchemy
